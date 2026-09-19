@@ -1,5 +1,4 @@
 # AI-MCQ-Quiz-Generator
-# AI MCQ Quiz Generator
 
 An AI-powered Multiple Choice Question (MCQ) Quiz Generator built using **Python, Streamlit, and Hugging Face**.
 
